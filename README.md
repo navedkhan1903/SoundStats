@@ -13,6 +13,9 @@ https://spotifyanalysistool.netlify.app/
 - JavaScript
 - Bootstrap
 - Spotify for Developers API
+- Git
+- GitHub
+- Netlify
 
 ## Features
 
