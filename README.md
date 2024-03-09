@@ -8,11 +8,16 @@ https://spotifyanalysistool.netlify.app/
 
 ## Tech Stack
 
+**Frontend:**
+
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 - Spotify for Developers API
+
+**Version Control & Deployment:**
+
 - Git
 - GitHub
 - Netlify
