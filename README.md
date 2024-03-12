@@ -30,6 +30,12 @@ https://spotifyanalysistool.netlify.app/
 - Correlation Coefficient
 - Correlation Graphs
 
+## Screenshots
+
+[![Screenshot-260.png](https://i.postimg.cc/cJCxLbCj/Screenshot-260.png)](https://postimg.cc/xkrDsgKy)
+[![Screenshot-261.png](https://i.postimg.cc/mD70LYYJ/Screenshot-261.png)](https://postimg.cc/phX0kn1J)
+[![Screenshot-262.png](https://i.postimg.cc/cH7bysZN/Screenshot-262.png)](https://postimg.cc/R6FRwxNP)
+
 ## Feedback
 
 If you have any feedback, please reach out to me at navedkhan19032002@gmail.com.
